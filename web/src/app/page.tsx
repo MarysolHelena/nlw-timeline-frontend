@@ -28,7 +28,7 @@ export default function Home() {
           </p>
         </a>
 
-        <div className="space-y-5">
+        <div className="spa'ce-y-5">
           <Image src={nlwLogo} alt="NLW Specetime" />
           {/* Hero */}
           <div className="max-w-[420px] space-y-1">
